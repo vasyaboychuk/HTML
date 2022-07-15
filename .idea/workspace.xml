@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36520add-348e-4ba5-a9cc-38ac075ab152" name="Changes" comment="add home work 3.2">
-      <change afterPath="$PROJECT_DIR$/lesson3.2/HW3.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3.2/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4.1/lesson4.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4.1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4.1/normalized.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson2.2/lesson2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2.2/lesson2.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2.2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2.2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +66,9 @@
       <workItem from="1657653856839" duration="53000" />
       <workItem from="1657709122027" duration="4688000" />
       <workItem from="1657717673070" duration="3896000" />
+      <workItem from="1657730220657" duration="1074000" />
+      <workItem from="1657815168719" duration="1291000" />
+      <workItem from="1657897913102" duration="5177000" />
     </task>
     <task id="LOCAL-00001" summary="add all files">
       <created>1657625490650</created>
