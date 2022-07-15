@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36520add-348e-4ba5-a9cc-38ac075ab152" name="Changes" comment="add home work 3.2">
-      <change afterPath="$PROJECT_DIR$/lesson4.1/lesson4.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4.1/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4.1/normalized.css" afterDir="false" />
+    <list default="true" id="36520add-348e-4ba5-a9cc-38ac075ab152" name="Changes" comment="add home work 4.1">
+      <change afterPath="$PROJECT_DIR$/lesson4.2/lesson4.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4.2/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4.2/normalized.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2.2/lesson2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2.2/lesson2.2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +40,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/OKTEN/HTML/lesson1/img&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/OKTEN/HTML/lesson4.2&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OKTEN\HTML\lesson4.2" />
       <recent name="E:\OKTEN\HTML\lesson1\img" />
     </key>
   </component>
@@ -68,7 +68,8 @@
       <workItem from="1657717673070" duration="3896000" />
       <workItem from="1657730220657" duration="1074000" />
       <workItem from="1657815168719" duration="1291000" />
-      <workItem from="1657897913102" duration="5177000" />
+      <workItem from="1657897913102" duration="6828000" />
+      <workItem from="1657905105974" duration="1962000" />
     </task>
     <task id="LOCAL-00001" summary="add all files">
       <created>1657625490650</created>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657721736064</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add home work 4.1">
+      <created>1657903409847</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657903409847</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +135,7 @@
     <MESSAGE value="add lesson2.3" />
     <MESSAGE value="add home work 3.1" />
     <MESSAGE value="add home work 3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add home work 3.2" />
+    <MESSAGE value="add home work 4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add home work 4.1" />
   </component>
 </project>
