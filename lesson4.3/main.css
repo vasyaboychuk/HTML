@@ -1,0 +1,138 @@
+.wrap{
+    margin: 0 auto;
+    border: 2px solid black;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.header{
+    display: flex;
+    gap: 10px;
+}
+.logo{
+    width: 25%;
+    background:gray;
+    height: 200px;
+}
+.search{
+    width: 75%;
+    background: gray;
+    height: 200px;
+}
+.mainblock{
+    display: flex;
+    gap: 10px;
+
+}
+.leftblock{
+    width: 25%;
+    /*border: 2px solid green;*/
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.nav{
+    height: 400px;
+    background: grey;
+}
+.card{
+    height: 95px;
+    background: grey;
+}
+.rightblock{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 75%;
+}
+.block45{
+    display: flex;
+    gap: 10px;
+}
+.block4{
+    width: 70%;
+    height: 200px;
+    background: gray;
+}
+.block5{
+    width: 30%;
+    height: 200px;
+    background: gray;
+
+}
+
+.block67{
+    display: flex;
+    gap: 10px;
+}
+.block6{
+    width: 70%;
+    height: 400px;
+    background: gray;
+}
+.block7{
+    width: 30%;
+    height: 400px;
+    background: gray;
+}
+.footer{
+    height: 200px;
+    background: gray;
+}
+.newblock{
+    display: none;
+    
+}
+.box{
+    display: none;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+@media screen and (max-width: 700px){
+    .leftblock{
+        display: none;
+    }
+    .rightblock{
+        width: 100%;
+    }
+    .block67{
+        flex-direction: column;
+    }
+    .block6{
+        width: 100%;
+    }
+    .block7{
+        width: 100%;
+        height: 200px;
+    }
+    .mainblock{
+        flex-direction: column;
+    }
+    .newblock{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-size: 30px;
+        font-weight: bold;
+        background: gray;
+        height: 150px;
+    }
+    .box{
+        display: flex;
+        gap: 10px;
+    }
+    .card{
+        width:50%;
+    }
+
+
+}
